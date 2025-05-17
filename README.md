@@ -18,8 +18,7 @@
 
 ## 🖼️ Preview
 
-![screenshot](Interface.png) *(Include a screenshot of the app if you'd like)*
-
+![screenshot](Interface.png) 
 ---
 
 ## 🧑‍💻 Developer Info
