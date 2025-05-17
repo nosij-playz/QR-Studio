@@ -18,7 +18,7 @@
 
 ## 🖼️ Preview
 
-![screenshot](screenshot.png) *(Include a screenshot of the app if you'd like)*
+![screenshot](Interface.png) *(Include a screenshot of the app if you'd like)*
 
 ---
 
